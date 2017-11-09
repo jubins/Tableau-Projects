@@ -13,9 +13,13 @@ The Prosper Loan data set contains 113,937 loans with 81 variables on each loan,
 
 The data is available from 2005 and tells what sorts you loans people have applied and who defaulted. I performed Time Seres Analysis on this dataset and found that Since 2009 the online personal loan business has increased steadily and climbed up quickly since 2013 and then dropped down at the beginning of 2014. However, the borrower credit score has went down over time. Also, the Default Rate in some states were higher than 30%.
 
-You can view the [Prosper Loan Data Visualization](https://public.tableau.com/profile/jubin.soni#!/vizhome/ProsperLoanData_7/ProsperLoanStory-Version2) by clicking on image below:
+- You can view my [Prosper Loan Data Story](https://public.tableau.com/profile/jubin.soni#!/vizhome/ProsperLoanData_7/ProsperLoanStory-Version2) by clicking on image below:
 
 [![visualization image](https://github.com/jubins/Tableau-Projects/blob/master/ProsperLoanData/data/pld_screenshot.png)](https://public.tableau.com/profile/jubin.soni#!/vizhome/ProsperLoanData_7/ProsperLoanStory-Version2)
+
+- Another version of my Tableau story can be viewed by clicking on below image:
+
+[![visualization image](https://github.com/jubins/Tableau-Projects/blob/master/ProsperLoanData/data/pld_screenshot_v1.png)](https://public.tableau.com/profile/jubin.soni#!/vizhome/ProsperLoanData_Version1/ProsperLoanStory-Version1)
 
 ## References
 - [Prosper Loan Data Project on Kaggle](https://www.kaggle.com/jschnessl/prosperloans)
