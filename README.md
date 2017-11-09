@@ -17,7 +17,7 @@ You can view the [Prosper Loan Data Visualization](https://public.tableau.com/pr
 
 [![visualization image](https://github.com/jubins/Tableau-Projects/blob/master/ProsperLoanData/data/pld_screenshot.png)](https://public.tableau.com/profile/jubin.soni#!/vizhome/ProsperLoanData_7/ProsperLoanStory-Version2)
 
-##References
+## References
 - [Prosper Loan Data Project on Kaggle](https://www.kaggle.com/jschnessl/prosperloans)
 - [Udacity](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
 - [Tableau](https://www.tableau.com/learn/training)
