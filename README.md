@@ -1,13 +1,6 @@
 # Tableau-Projects
 This repository contains the analysis and visualizations I have created in Tableau.
 
-## About
-Tableau is a data visualization and business intelligence tool created by Tableau Software. Tableau can help anyone see and understand their data. For my projects I have chosen to use Tableau because it can connect to almost any database, drag and drop to create visualizations, and share with a click.
-
-## Dependencies
-To execute my rojects you need to have Tableau version 10 or above
-
-## Projects
 ### Prosper Loan Data Visualization
 #### About
 Prosper is a peer-to-peer lending platform that aims to connect people who need money with those people who have the money to invest. In this data analysis project, I have explored the Prosper dataset and used Tableau to create my visualizations.
